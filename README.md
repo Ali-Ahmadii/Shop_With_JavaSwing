@@ -9,11 +9,6 @@ for running code please extract the zip file in the directory of C:\\Java\java(i
 
 Admin Password Is : 02i39
 *********************************
-![This is an image](https://github.com/IAliAhmadi/Shop_With_JavaSwing/blob/main/2022-02-10.png)
-![](https://github.com/IAliAhmadi/Shop_With_JavaSwing/blob/main/2022-02-10%20(2).png)
-![](https://github.com/IAliAhmadi/Shop_With_JavaSwing/blob/main/2022-02-10%20(5).png)
-![](https://github.com/IAliAhmadi/Shop_With_JavaSwing/blob/main/2022-02-10%20(4).png)
-![](https://github.com/IAliAhmadi/Shop_With_JavaSwing/blob/main/2022-02-10%20(9).png)
 in this application you can sign up as three role:
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 1-client (for buying items that have been added by seller
